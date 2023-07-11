@@ -73,5 +73,5 @@ Please find the Documentation for all platforms here: [Docutain SDK Documentatio
 - [Swift](https://github.com/Docutain/Docutain-SDK-Example-iOS-Swift)
 
 ### Windows
-- [WPF](https://github.com/Docutain/Docutain-SDK-Example-Windows-WPF-.NET-Framework-)
+- [WPF](https://github.com/Docutain/Docutain-SDK-Example-Windows-WPF-.NET-Framework)
 - [Forms](https://github.com/Docutain/Docutain-SDK-Example-Windows-Forms-.NET-Framework)
