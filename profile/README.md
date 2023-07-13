@@ -40,24 +40,42 @@ Benefit from a super fast and easy integration by using our Ready-To-Use UI Comp
 
 <table width="100%"  style="border:0px solid white; width:100%;">
     <tr style="border: 0px;">
-        <td align="center" width="33%" style="border:0px; width:33.33%">
+        <td align="center" width="16%" style="border:0px; width:16%">
             <img src="https://sdk.docutain.com/Content/images/android.svg" alt="Docutain SDK Getting startet Android"/>
             <p>
             <b><a href="https://docs.docutain.com/docs/Android/intro" title="Docutain SDK documentation">Getting started Android</a></b>
             </p>
         </td>
-        <td align="center" width="33%" style="border:0px; width:33.33%">
+        <td align="center" width="16%" style="border:0px; width:16%">
             <img src="https://sdk.docutain.com/Content/images/apple.svg" alt="Docutain SDK Gettting startet iOS"/>
             <p>
             <b><a href="https://docs.docutain.com/docs/iOS/intro" title="Docutain SDK documentation">Getting started iOS</br></br></a></b>
             </p>
         </td>
-        <td align="center" width="33%" style="border:0px; width:33.33%">
+        <td align="center" width="16%" style="border:0px; width:16%">
             <img src="https://sdk.docutain.com/Content/images/windows.png" alt="Docutain SDK Gettting startet Windows"/>
             <p>
             <b><a href="https://docs.docutain.com/docs/Windows/intro" title="Docutain SDK documentation">Getting started Windows</a></b>
             </p>
         </td>
+        <td align="center" width="16%" style="border:0px; width:16%">
+            <img src="https://sdk.docutain.com/Content/images/react-native.svg" alt="Docutain SDK Gettting startet React Native"/>
+            <p>
+            <b><a href="https://docs.docutain.com/docs/react-native/intro" title="Docutain SDK documentation">Getting started React Native</a></b>
+            </p>
+        </td>
+        <td align="center" width="16%" style="border:0px; width:16%">
+            <img src="https://sdk.docutain.com/Content/images/xamarin-32-black.svg" alt="Docutain SDK Gettting startet Xamarin"/>
+            <p>
+            <b><a href="https://docs.docutain.com/docs/Xamarin/intro" title="Docutain SDK documentation">Getting started Xamarin</a></b>
+            </p>
+        </td>    
+        <td align="center" width="16%" style="border:0px; width:16%">
+            <img src="https://sdk.docutain.com/Content/images/maui-32-black.svg" alt="Docutain SDK Gettting startet MAUI"/>
+            <p>
+            <b><a href="https://docs.docutain.com/docs/MAUI/intro" title="Docutain SDK documentation">Getting started MAUI</a></b>
+            </p>
+        </td> 
     </tr>
 </table>
 
@@ -75,3 +93,7 @@ Please find the Documentation for all platforms here: [Docutain SDK Documentatio
 ### Windows
 - [WPF](https://github.com/Docutain/Docutain-SDK-Example-Windows-WPF-.NET-Framework)
 - [Forms](https://github.com/Docutain/Docutain-SDK-Example-Windows-Forms-.NET-Framework)
+
+### React Native
+- [React Native](https://github.com/Docutain/docutain-sdk-example-react-native)
+
