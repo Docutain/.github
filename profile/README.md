@@ -71,7 +71,7 @@ Benefit from a super fast and easy integration by using our Ready-To-Use UI Comp
             </p>
         </td>    
         <td align="center" width="16%" style="border:0px; width:16%">
-            <img src="https://sdk.docutain.com/Content/images/maui-32-black.svg" alt="Docutain SDK Gettting startet MAUI"/>
+            <img src="https://sdk.docutain.com/Content/images/maui-black.svg" alt="Docutain SDK Gettting startet MAUI"/>
             <p>
             <b><a href="https://docs.docutain.com/docs/MAUI/intro" title="Docutain SDK documentation">Getting started MAUI</a></b>
             </p>
