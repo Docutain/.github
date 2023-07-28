@@ -97,7 +97,11 @@ Please find the Documentation for all platforms here: [Docutain SDK Documentatio
 ### React Native
 - [React Native](https://github.com/Docutain/docutain-sdk-example-react-native)
 
+### .NET MAUI
+- [MAUI](https://github.com/Docutain/docutain-sdk-example-.net-maui)
+  
 ### Xamarin
+- [Xamarin.Forms](https://github.com/Docutain/docutain-sdk-example-xamarin-forms)
 - [Xamarin.Android](https://github.com/Docutain/docutain-sdk-example-xamarin-android)
 - [Xamarin.iOS](https://github.com/Docutain/docutain-sdk-example-xamarin-ios)
 
