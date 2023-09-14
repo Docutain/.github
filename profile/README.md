@@ -40,38 +40,44 @@ Benefit from a super fast and easy integration by using our Ready-To-Use UI Comp
 
 <table width="100%"  style="border:0px solid white; width:100%;">
     <tr style="border: 0px;">
-        <td align="center" width="16%" style="border:0px; width:16%">
-            <img src="https://sdk.docutain.com/Content/images/android.svg" alt="Docutain SDK Getting startet Android"/>
+        <td align="center" width="14%" style="border:0px; width:14%">
+            <img width="35%" src="https://sdk.docutain.com/Content/images/icon-android.svg" alt="Docutain SDK Getting started Android"/>
             <p>
             <b><a href="https://docs.docutain.com/docs/Android/intro" title="Docutain SDK documentation">Getting started Android</a></b>
             </p>
         </td>
-        <td align="center" width="16%" style="border:0px; width:16%">
-            <img src="https://sdk.docutain.com/Content/images/apple.svg" alt="Docutain SDK Gettting startet iOS"/>
+        <td align="center" width="14%" style="border:0px; width:14%">
+            <img width="35%" src="https://sdk.docutain.com/Content/images/icon-ios.svg" alt="Docutain SDK Gettting started iOS"/>
             <p>
             <b><a href="https://docs.docutain.com/docs/iOS/intro" title="Docutain SDK documentation">Getting started iOS</br></br></a></b>
             </p>
         </td>
-        <td align="center" width="16%" style="border:0px; width:16%">
-            <img src="https://sdk.docutain.com/Content/images/windows.png" alt="Docutain SDK Gettting startet Windows"/>
+        <td align="center" width="14%" style="border:0px; width:14%">
+            <img width="35%" src="https://sdk.docutain.com/Content/images/icon-windows.svg" alt="Docutain SDK Gettting started Windows"/>
             <p>
             <b><a href="https://docs.docutain.com/docs/Windows/intro" title="Docutain SDK documentation">Getting started Windows</a></b>
             </p>
         </td>
-        <td align="center" width="16%" style="border:0px; width:16%">
-            <img src="https://sdk.docutain.com/Content/images/react-native.svg" alt="Docutain SDK Gettting startet React Native"/>
+        <td align="center" width="14%" style="border:0px; width:14%">
+            <img width="35%" src="https://sdk.docutain.com/Content/images/icon-reactnative.svg" alt="Docutain SDK Gettting started React Native"/>
             <p>
             <b><a href="https://docs.docutain.com/docs/react-native/intro" title="Docutain SDK documentation">Getting started React Native</a></b>
             </p>
         </td>
-        <td align="center" width="16%" style="border:0px; width:16%">
-            <img src="https://sdk.docutain.com/Content/images/xamarin-32-black.svg" alt="Docutain SDK Gettting startet Xamarin"/>
+         <td align="center" width="14%" style="border:0px; width:14%">
+            <img width="35%" src="https://sdk.docutain.com/Content/images/icon-flutter.svg" alt="Docutain SDK Gettting started Flutter"/>
+            <p>
+            <b><a href="https://docs.docutain.com/docs/fluttere/intro" title="Docutain SDK documentation">Getting started Flutter</a></b>
+            </p>
+        </td>
+        <td align="center" width="14%" style="border:0px; width:14%">
+            <img width="35%" src="https://sdk.docutain.com/Content/images/icon-xamarin.svg" alt="Docutain SDK Gettting started Xamarin"/>
             <p>
             <b><a href="https://docs.docutain.com/docs/Xamarin/intro" title="Docutain SDK documentation">Getting started Xamarin</a></b>
             </p>
         </td>    
-        <td align="center" width="16%" style="border:0px; width:16%">
-            <img src="https://sdk.docutain.com/Content/images/maui-black.svg" alt="Docutain SDK Gettting startet MAUI"/>
+        <td align="center" width="14%" style="border:0px; width:14%">
+            <img width="35%" src="https://sdk.docutain.com/Content/images/icon-maui.svg" alt="Docutain SDK Gettting started MAUI"/>
             <p>
             <b><a href="https://docs.docutain.com/docs/MAUI/intro" title="Docutain SDK documentation">Getting started MAUI</a></b>
             </p>
@@ -97,8 +103,11 @@ Please find the Documentation for all platforms here: [Docutain SDK Documentatio
 ### React Native
 - [React Native](https://github.com/Docutain/docutain-sdk-example-react-native)
 
+### Flutter
+- [Flutter](https://github.com/Docutain/docutain-sdk-example-flutter)
+
 ### .NET MAUI
-- [MAUI](https://github.com/Docutain/docutain-sdk-example-.net-maui)
+- [.NET MAUI](https://github.com/Docutain/docutain-sdk-example-.net-maui)
   
 ### Xamarin
 - [Xamarin.Forms](https://github.com/Docutain/docutain-sdk-example-xamarin-forms)
