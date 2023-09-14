@@ -67,7 +67,7 @@ Benefit from a super fast and easy integration by using our Ready-To-Use UI Comp
          <td align="center" width="14%" style="border:0px; width:14%">
             <img width="35%" src="https://sdk.docutain.com/Content/images/icon-flutter.svg" alt="Docutain SDK Gettting started Flutter"/>
             <p>
-            <b><a href="https://docs.docutain.com/docs/fluttere/intro" title="Docutain SDK documentation">Getting started Flutter</a></b>
+            <b><a href="https://docs.docutain.com/docs/Flutter/intro" title="Docutain SDK documentation">Getting started Flutter</a></b>
             </p>
         </td>
         <td align="center" width="14%" style="border:0px; width:14%">
