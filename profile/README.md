@@ -92,6 +92,7 @@ Please find the Documentation for all platforms here: [Docutain SDK Documentatio
 
 ### Android
 - [Kotlin](https://github.com/Docutain/Docutain-SDK-Example-Android-Kotlin)
+- [Java](https://github.com/Docutain/Docutain-SDK-Example-Android-Java)
 
 ### iOS
 - [Swift](https://github.com/Docutain/Docutain-SDK-Example-iOS-Swift)
