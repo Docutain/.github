@@ -38,7 +38,7 @@ Benefit from a super fast and easy integration by using our Ready-To-Use UI Comp
 
 ## Get started with your platform
 
-<table width="100%"  style="border:0px solid white; width:100%;">
+<table width="100%" style="border:0px solid white; width:100%;">
     <tr style="border: 0px;">
         <td align="center" width="14%" style="border:0px; width:14%">
             <img width="35%" src="https://sdk.docutain.com/Content/images/icon-android.svg" alt="Docutain SDK Getting started Android"/>
@@ -70,6 +70,20 @@ Benefit from a super fast and easy integration by using our Ready-To-Use UI Comp
             <b><a href="https://docs.docutain.com/docs/Flutter/intro" title="Docutain SDK documentation">Getting started Flutter</a></b>
             </p>
         </td>
+        <td align="center" width="14%" style="border:0px; width:14%">
+            <img width="35%" src="https://sdk.docutain.com/Content/images/icon-capacitor.svg" alt="Docutain SDK Gettting started Capacitor"/>
+            <p>
+            <b><a href="https://docs.docutain.com/docs/capacitor/intro" title="Docutain SDK documentation">Getting started Capacitor</a></b>
+            </p>
+        </td> 
+    </tr>
+    <tr style="border: 0px; solid white;">
+        <td align="center" width="14%" style="border:0px; width:14%">
+            <img width="35%" src="https://sdk.docutain.com/Content/images/icon-cordova.svg" alt="Docutain SDK Gettting started Cordova"/>
+            <p>
+            <b><a href="https://docs.docutain.com/docs/cordova/intro" title="Docutain SDK documentation">Getting started Cordova</a></b>
+            </p>
+        </td>  
         <td align="center" width="14%" style="border:0px; width:14%">
             <img width="35%" src="https://sdk.docutain.com/Content/images/icon-xamarin.svg" alt="Docutain SDK Gettting started Xamarin"/>
             <p>
@@ -106,7 +120,13 @@ Please find the Documentation for all platforms here: [Docutain SDK Documentatio
 
 ### Flutter
 - [Flutter](https://github.com/Docutain/docutain-sdk-example-flutter)
+  
+### Capacitor
+- [Capacitor Ionic](https://github.com/Docutain/docutain-sdk-example-capacitor-ionic)
 
+### Cordova
+- [Cordova](https://github.com/Docutain/docutain-sdk-example-cordova-promisify)
+  
 ### .NET MAUI
 - [.NET MAUI](https://github.com/Docutain/docutain-sdk-example-.net-maui)
   
